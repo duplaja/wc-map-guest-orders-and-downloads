@@ -24,7 +24,6 @@ To see other plugins like this, or tips on how these are built, check out [WP Te
 
 1. Upload the plugin files to the `/wp-content/plugins/wc-map-guest-orders-and-downloads` directory, or install the plugin through the WordPress plugins screen directly.
 1. Activate the plugin through the 'Plugins' screen in WordPress
-1. Head over to the Installments for Stripe GF settings page, found on the Dashboard sidebar on the Forms submenu.
 
 == Frequently Asked Questions ==
 
